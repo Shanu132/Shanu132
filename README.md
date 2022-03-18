@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanu Karan</h1>
 <h3 align="center">A passionate developer.</h3>
 
-<p align="right" display="float"> <img src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" alt="shanu132" /> </p>
+<p align="right" float="right"> <img src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" alt="shanu132" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shanukaran132" target="blank"><img src="https://img.shields.io/twitter/follow/shanukaran132?logo=twitter&style=for-the-badge" alt="shanukaran132" /></a> </p>
 
